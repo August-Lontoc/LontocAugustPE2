@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LontocAugustPE2</string>
+
+    <string name="fullName">Full Name:</string>
+    <string name="age">Age:</string>
+    <string name="gender">Gender:</string>
+
+    <string name="fullNameHint">Input full name &#8230;</string>
+    <string name="ageHint">Input age &#8230;</string>
+    <string name="genderHint">Input gender &#8230;</string>
+
+    <string name="search">SEARCH</string>
+    <string name="save">SAVE</string>
+
+</resources>
